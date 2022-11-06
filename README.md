@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yashraj2502
-- 👀 I’m interested in Android Development
+- 👀 I’m interested in Android Development (Java)
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate with all of you
 - 📫 You can reach me via [mail](mailto:yalapuria@gmail.com)
