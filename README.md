@@ -59,7 +59,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Yashraj/Yashraj/blob/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Yashraj2502/Yashraj2502/blob/output/snake.svg" alt="Snake animation" /> -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
