@@ -67,12 +67,13 @@
 <br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/Yashraj2502/Yashraj2502/blob/output/snake.svg" alt="Snake animation" /> -->
+![snake gif](https://github.com/Yashraj2502/Yashraj2502/blob/output/github-contribution-grid-snake.gif) 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
   <!-- <img alt="Snake animation" src="github-contribution-grid-snake.svg"> -->
 
-  ![snake gif](https://github.com/Yashraj2502/Yashraj2502/blob/output/github-contribution-grid-snake.gif) 
+  
 
 </picture>
 
