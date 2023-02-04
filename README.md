@@ -2,9 +2,15 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Yashraj's GitHub Stats&username=Yashraj2502" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Yashraj" height="150" alt="languages graph"  />
+<div align="center" height="150">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&custom_title=Yashraj's GitHub Stats&username=Yashraj2502" height="150" alt="stats graph"  />
+
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Yashraj" height="150" alt="languages graph"  /> -->
+
+  [![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj2502&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/Yashraj2502/github-readme-stats)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj2502&theme=react&layout=compact&card_width=320&langs_count=5)
+
 </div>
 
 ###
@@ -41,7 +47,7 @@
   <a href="https://discordid.netlify.app/?id=515569207035822093" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
-  <a href="yash.alapuria21@it.sce.edu.in" target="_blank">
+  <a href="mailto:yalapuria@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/yash-alapuria-48b75a233/" target="_blank">
@@ -63,7 +69,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="github-contribution-grid-snake.svg">
+  <!-- <img alt="Snake animation" src="github-contribution-grid-snake.svg"> -->
+
+  ![snake gif](https://github.com/Yashraj2502/Yashraj2502/blob/output/github-contribution-grid-snake.gif) 
+
 </picture>
 
 ###
