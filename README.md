@@ -9,9 +9,7 @@
 
   <!-- [![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj2502&count_private=true&show_icons=true&include_all_commits=true&theme=react)](https://github.com/Yashraj2502/github-readme-stats) -->
 
-![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj2502&count_private=true&show_icons=true&include_all_commits=true&theme=react)
-
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj2502&theme=react&layout=compact&card_width=320&langs_count=5)
+![Yashraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yashraj2502&count_private=true&show_icons=true&include_all_commits=true&theme=react) ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashraj2502&theme=react&layout=compact&card_width=320&langs_count=5)
 
 </div>
 
