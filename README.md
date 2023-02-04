@@ -1,6 +1,6 @@
 <h2 align="center">Hi, Yash H. Alapuria here</h2>
 
-###
+### 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yashraj2502&count_private=true&show_icons=true&include_all_commits=true&theme=react" height="150" alt="stats graph"  />
@@ -14,9 +14,11 @@
 
 </div>
 
-###
-
 <div align="center">
+  
+### LANGUAGES & TOOLS
+<br>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="42" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" width="42" alt="cplusplus logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
@@ -45,6 +47,10 @@
 ###
 
 <div align="center">
+  
+### CONNECT WITH ME
+<br>
+
   <a href="https://discordid.netlify.app/?id=515569207035822093" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="47" height="35" alt="discord logo"  />
   </a>
@@ -67,7 +73,7 @@
 <br clear="both">
 
 <!-- <img src="https://raw.githubusercontent.com/Yashraj2502/Yashraj2502/blob/output/snake.svg" alt="Snake animation" /> -->
-![snake gif](https://github.com/Yashraj2502/Yashraj2502/blob/output/github-contribution-grid-snake.gif) 
+<!-- ![snake gif](https://github.com/Yashraj2502/Yashraj2502/blob/output/github-contribution-grid-snake.gif) 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg">
@@ -75,6 +81,11 @@
 
   
 
+<!-- </picture> --> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
 </picture>
 
 ###
